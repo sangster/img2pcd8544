@@ -1,0 +1,13 @@
+/Makefile
+/Makefile.in
+/aclocal.m4
+/autom4te.cache/
+/build-aux/
+/config.log
+/config.status
+/configure
+/src/.deps/
+/src/Makefile
+/src/Makefile.in
+/src/*.o
+/src/img2pcd8544
